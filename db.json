@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Course one",
+      "duration": "4"
+    },
+    {
+      "id": 2,
+      "title": "Course two",
+      "duration": "7"
+    },
+    {
+      "id": 3,
+      "title": "Course three",
+      "duration": "9"
+    },
+    {
+      "id": 4,
+      "title": "Course four",
+      "duration": "3"
+    },
+    {
+      "id": 5,
+      "title": "Course five",
+      "duration": "6"
+    },
+    {
+      "id": 6,
+      "title": "Course six",
+      "duration": "2"
+    }
+  ],
+  "enquries": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "jhondoe@gmail.com",
+      "enquiry": "What is the price of this course",
+      "course_id": 2,
+      "course_title": "Course two"
+    },
+    {
+      "name": "Tom Hardy",
+      "email": "tomhardy@gmail.com",
+      "enquiry": "Hey you dumb fuck lmao",
+      "couse_id": 1,
+      "course_title": "Course one",
+      "id": 2
+    }
+  ]
+}
