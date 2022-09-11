@@ -1,4 +1,4 @@
-# react-redux
+# react-routing
 
 This app is build using redux to provide asynchronous capabilities to the application
 
